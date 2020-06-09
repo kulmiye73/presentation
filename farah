@@ -1,4 +1,4 @@
-x = int(input())
+1x = int(input())
 y = int(input())
 z = int(input())
 
@@ -13,4 +13,4 @@ def lone_sum(a, b, c):
         return 0
     else:
         return a+b+c
-print(lone_sum(x,y,z))
+print(lone_sum(1x,y,z))
